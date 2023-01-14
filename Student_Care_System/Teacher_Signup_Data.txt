@@ -1,0 +1,3 @@
+Tarik Rahman,TrR,1234567,Tarik@gmail.com,5555,PHY
+Rakibul,Rkl,01521770092,rakib@gmail.com,5555,Cse
+Akibur Rahman,Akr,0188345678,Akibur@gmail.com,Akr,Math

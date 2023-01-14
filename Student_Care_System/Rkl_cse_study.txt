@@ -1,0 +1,28 @@
+Topic : Java
+Title :
+
+Constructor
+Generally we use constructor to call and initial atribute value in a class and store them.
+Its a special type of mehotd,but it has no return type.~
+Rkl
+                           Written By Rkl
+Topic : Java
+Title :
+
+Conditonal Statement
+Ans
+     if(//condition){
+      
+        //code
+      }
+
+     else if(//condition){
+
+     //code
+     }
+ 
+     else{
+
+     //code
+     }
+                           Written By Rkl

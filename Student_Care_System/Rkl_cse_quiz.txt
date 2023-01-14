@@ -1,0 +1,15 @@
+why we use loop?
+for using reapation work
+for using reapation work|for break statement|
+construcor
+a special type of method
+a static method| a special type of method|none|
+for conditonal statement
+we use if-else-switch
+we use if-else-switch|we use if|
+Can we read .txt file?
+yes
+no|yes|
+we use array _
+for store some element
+for conditonal statement|for store some element|
